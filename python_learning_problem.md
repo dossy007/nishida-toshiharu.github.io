@@ -1,5 +1,8 @@
 # 変数・型   
 ⭐️    
+
+|:-:|
+
 1.変数xに整数型の数値を代入して、その変数をprintしてください
 <details>
 <summary>A.</summary>
