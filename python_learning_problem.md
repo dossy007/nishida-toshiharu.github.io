@@ -1,6 +1,6 @@
 # 変数・型   
 ⭐️    
-1.変数xに整数型の数値を代入して、その変数をprintしてください
+## 1.変数xに整数型の数値を代入して、その変数をprintしてください
 <details>
 <summary>A.</summary>
 
@@ -35,9 +35,10 @@ print( num1 + num2 )
 ```
 </details>
 
+# LIst Dict Tuple
 
 ⭐️⭐️    
-4.整数型の1,2,3が入っているリストを作成しprintで出力してください
+1.整数型の1,2,3が入っているリストを作成しprintで出力してください
 <details>
 <summary>A.</summary>
 
@@ -49,7 +50,7 @@ print( li )
 
 
 ⭐️⭐️    
-5.整数型の1,2,3が入っているリストを作成し、最後の要素をprintで出力
+2.整数型の1,2,3が入っているリストを作成し、最後の要素をprintで出力
 <details>
 <summary>A.</summary>
 
@@ -61,7 +62,7 @@ print( li[2] )
 
 
 ⭐️⭐️    
-6.整数型の1,2,3が入っているリストを作成し、最初の要素をprintで出力してください
+3.整数型の1,2,3が入っているリストを作成し、最初の要素をprintで出力してください
 <details>
 <summary>A.</summary>
 
@@ -74,7 +75,7 @@ print( li[0] )
 
 
 ⭐️⭐️⭐️    
-7.整数型の1,2,3が入っているリストを作成し、最初以外の要素をprintで出力してください
+4.整数型の1,2,3が入っているリストを作成し、最初以外の要素をprintで出力してください
 <details>
 <summary>A.</summary>
 
@@ -87,7 +88,7 @@ print( li[1:] )
 
 
 ⭐️
-8.keyにa,b,c valueに整数型の1,2,3が入っているディクトを作成し、要素をprintで出力してください
+5.keyにa,b,c valueに整数型の1,2,3が入っているディクトを作成し、要素をprintで出力してください
 <details>
 <summary>A.</summary>
 ```
@@ -97,7 +98,7 @@ print( di )
 </details>
 
 ⭐️⭐️    
-9.keyにa,b,c valueに整数型の1,2,3が入っているディクトを作成し、その後メソッドを用いて、要素を(d:4)追加しprintで出力してください
+6.keyにa,b,c valueに整数型の1,2,3が入っているディクトを作成し、その後メソッドを用いて、要素を(d:4)追加しprintで出力してください
 <details>
 <summary>A.</summary>
 
@@ -111,7 +112,7 @@ print( di )
 
 
 ⭐️⭐️⭐️    
-10.keyにid,name,age valueに100,自分の名前,自分の年齢が入っているディクトを作成
+7.keyにid,name,age valueに100,自分の名前,自分の年齢が入っているディクトを作成
 familyのリストを作成し、自分の家族を二人入れてください
 
 familyをdictに追加し、二人目のfamilyの名前を出力してください
